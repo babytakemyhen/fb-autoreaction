@@ -3,10 +3,10 @@
 require_once('lib/fb.php');
 
 //////////////////////////////////////////////[edit authentication here]///////////////////////////////////////////
-$user		= 'lucifer.inside'; // facebook username / email
-$pass 		= 'toketkenyel'; // facebook passwod
-$r_male		= '3'; // reaction if user male , like = 1, love = 2, wow = 3, haha = 4, sad = 7, angry = 8
-$r_female	= '2'; // reaction if user female , like = 1, love = 2, wow = 3, haha = 4, sad = 7, angry = 8
+$user		= 'k-fer.abigt'; // username fb / email
+$pass 		= 'ngeweenak'; // password fb
+$r_male		= '3'; // reaction if user male , like = 8, love = 7, wow = 6, haha = 5, sad = 4, angry = 9
+$r_female	= '2'; // reaction if user female , like = 5, love = 4, wow = 6, haha = 3, sad = 2, angry = 7
 $max_status	= '20'; // maximum reacted status
 $token 		= 'EaEaEa696969';
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
